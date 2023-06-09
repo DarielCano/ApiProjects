@@ -13,7 +13,7 @@
         "link": "https://darielcano.github.io/Calculadora-sencilla/",
         "src": "./imagenes-proj/calculadora.png",
         "lenguages": ["HTML, CSS, JS"],
-        "description":"SE trata de una calculadora sencilla que realiza las operaciones básicas de adición, substración, multiplicación y división. SE implemento con eventos del click y del teclado  "
+        "description":"Se trata de una calculadora sencilla que realiza las operaciones básicas de adición, substración, multiplicación y división. SE implemento con eventos del click y del teclado  "
       },
       {
         "id": 3,
