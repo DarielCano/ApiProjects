@@ -3,6 +3,7 @@
       "id": 1,
       "title": "MICamagüey",
       "link": "https://darielcano.github.io/MiCamaguey/",
+        "src": "https://raw.githubusercontent.com/DarielCano/ProjImg/main/imagenes-proj/MiCamaguey.png?token=GHSAT0AAAAAACCF2U5JDBDRHYX4AH5TKXUSZEDHEHA"
       "lenguages": ["HTML,CSS"],
       "description":"Mi primer sitio tipo blog. Funciona como sitio estático para consultar informacion sobre mi ciudad natal Camagüey, Cuba. Desarrollado con HTML5 y CSS.  "
     },
