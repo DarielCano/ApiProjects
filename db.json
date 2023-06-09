@@ -1,0 +1,45 @@
+{"proyectos" : [
+    {
+      "id": 1,
+      "title": "MICamagüey",
+      "link": "https://darielcano.github.io/MiCamaguey/",
+      "lenguages": ["HTML,CSS"],
+      "description":"Mi primer sitio tipo blog. Funciona como sitio estático para consultar informacion sobre mi ciudad natal Camagüey, Cuba. Desarrollado con HTML5 y CSS.  "
+    },
+    {
+        "id": 2,
+        "title": "Calculadora",
+        "link": "https://darielcano.github.io/Calculadora-sencilla/",
+        "lenguages": ["HTML, CSS, JS"],
+        "description":"SE trata de una calculadora sencilla que realiza las operaciones básicas de adición, substración, multiplicación y división. SE implemento con eventos del click y del teclado  "
+      },
+      {
+        "id": 3,
+        "title": "Contador de click",
+        "link": "https://darielcano.github.io/Contador-de-click/",
+        "lenguages": ["HTML, CSS, JS"],
+        "description":"Creado a base de HTML, CSS y JS. Muestra un contador cada vez que se presiona el botón conteo. TIene un botón para reiniciar"
+      },
+      {
+        "id": 4,
+        "title": "CubaLibre Barbería",
+        "link": "https://darielcano.github.io/CubaLibre-Barberia/",
+        "lenguages": ["HTML, CSS, JS"],
+        "description":"Un gran desafío para mi porque fue mi primer gran proyecto, como parte de un trabajo final para un curso. Desarrollado con HTML, CSS y JS haciendo uso del localStorage y el sessionStorage para almacenar los usuarios y el inicio de sesión. Se utilizaron librerías como Toastify y el SweetAlert para notificaciones y mensajes modales respectivamente  "
+      },
+      {
+        "id": 5,
+        "title": "Generador de días",
+        "link": "https://darielcano.github.io/Generador_de_dias/",
+        "lenguages": ["HTML, CSS, JS"],
+        "description":"Surge como iniciativa personal para ahorrar dinero con mi mujer. Se trata e un generador de días que cuenta con un botón para generar un dia del año de modo aleatorio. Los dias no se deben repetir y según el dia es el monto que se debe ahorrar. Se empleo HTML, CSS, JS, localStorage y la librería SweetAlert para notificaciones"
+      },
+      {
+        "id": 6,
+        "title": "FrontEnd Store",
+        "link": "https://darielcano.github.io/e-commerce-react/",
+        "lenguages": [", React JS, HTML, CSS, JS"],
+        "description":"E- commerce ficticio con productos de las tecnologías Frontend. Desarrollado con React JS y haciendo uso de la api de Google Firebase para alamacenar los productos y las ordenes de compra. Tambien cuenta con sistema de autenticación de usuarios. Se empleó react-router-DOM y SweetAlert"
+      }
+    ]
+}
