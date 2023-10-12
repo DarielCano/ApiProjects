@@ -46,6 +46,14 @@
          "src": "./imagenes-proj/e-commerce.png",
         "lenguages": [", React JS, HTML, CSS, JS"],
         "description":"E- commerce ficticio con productos de las tecnologías Frontend. Desarrollado con React JS y haciendo uso de la api de Google Firebase para almacenar los productos y las órdenes de compra. También cuenta con sistema de autenticación de usuarios. Se empleó react-router-DOM, SweetAlert y Toastify."
-      }
+      },
+       {
+      "id": 7,
+      "title": "Gestor de Usuarios Gym",
+      "link": "https://gym-users.netlify.app/",
+      "src": "./imagenes-proj/e-commerce.png",
+      "lenguages": ["React Js, Node Js, MongoDb"],
+      "description":"Sistema para gestión de usuarios, especialmente para gimnasios pero adaptable a cualquier negocio. Realizado con MERN. Para poder visualizar o poder trabajr con la misma debe tener instalado MongoDB y seguir las instrucciones del Readme.md en el repositorio de la aplicación"
+    },
     ]
 }
