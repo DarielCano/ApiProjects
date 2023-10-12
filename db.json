@@ -1,4 +1,20 @@
 {"proyectos" : [
+      {
+      "id": 8,
+      "title": "Futbol Experience",
+      "link": "https://futbolexperience.netlify.app/",
+      "src": "./imagenes-proj/futbol-experience.png",
+      "lenguages": ["React Js, JS, HTML, CSS(SASS)"],
+      "description":"Proyecto realizado en colaboración con Leandro Romero https://github.com/LeandroMaxRomero para emprendedor argentino. Página tipo blog realcionada con el fútbol argentino y visitas a lugares de interes futbolístico. Gran experiencia trabajando como colaborador"
+    },
+      {
+      "id": 7,
+      "title": "Gestor de Usuarios Gym",
+      "link": "https://gym-users.netlify.app/",
+      "src": "./imagenes-proj/gym-users.png",
+      "lenguages": ["React Js, Node Js, MongoDb"],
+      "description":"Sistema para gestión de usuarios, especialmente para gimnasios pero adaptable a cualquier negocio. Realizado con MERN. Para poder visualizar o poder trabajr con la misma debe tener instalado MongoDB y seguir las instrucciones del Readme.md en el repositorio de la aplicación"
+    },
     {
       "id": 1,
       "title": "MICamagüey",
@@ -7,22 +23,7 @@
       "lenguages": ["HTML,CSS"],
       "description":"Mi primer sitio tipo blog. Funciona como sitio estático para consultar información sobre mi ciudad natal Camagüey, Cuba. Desarrollado con HTML5 y CSS.  "
     },
-    {
-        "id": 2,
-        "title": "Calculadora",
-        "link": "https://darielcano.github.io/Calculadora-sencilla/",
-        "src": "./imagenes-proj/calculadora.png",
-        "lenguages": ["HTML, CSS, JS"],
-        "description":"Se trata de una calculadora sencilla que realiza las operaciones básicas de adición, substración, multiplicación y división. Se implementó con eventos del click y del teclado."
-      },
-      {
-        "id": 3,
-        "title": "Contador de click",
-        "link": "https://darielcano.github.io/Contador-de-click/",
-        "src": "./imagenes-proj/contador-click.png",
-        "lenguages": ["HTML, CSS, JS"],
-        "description":"Creado a base de HTML, CSS y JS. Muestra un contador cada vez que se presiona el botón conteo. Tiene un botón para reiniciar."
-      },
+       
       {
         "id": 4,
         "title": "CubaLibre Barbería",
@@ -44,16 +45,16 @@
         "title": "FrontEnd Store",
         "link": "https://darielcano.github.io/e-commerce-react/",
          "src": "./imagenes-proj/e-commerce.png",
-        "lenguages": [", React JS, HTML, CSS, JS"],
+        "lenguages": ["React JS, HTML, CSS, JS"],
         "description":"E- commerce ficticio con productos de las tecnologías Frontend. Desarrollado con React JS y haciendo uso de la api de Google Firebase para almacenar los productos y las órdenes de compra. También cuenta con sistema de autenticación de usuarios. Se empleó react-router-DOM, SweetAlert y Toastify."
       },
-       {
-      "id": 7,
-      "title": "Gestor de Usuarios Gym",
-      "link": "https://gym-users.netlify.app/",
-      "src": "./imagenes-proj/gym-users.png",
-      "lenguages": ["React Js, Node Js, MongoDb"],
-      "description":"Sistema para gestión de usuarios, especialmente para gimnasios pero adaptable a cualquier negocio. Realizado con MERN. Para poder visualizar o poder trabajr con la misma debe tener instalado MongoDB y seguir las instrucciones del Readme.md en el repositorio de la aplicación"
-    }
-    ]
+    {
+        "id": 2,
+        "title": "Calculadora",
+        "link": "https://darielcano.github.io/Calculadora-sencilla/",
+        "src": "./imagenes-proj/calculadora.png",
+        "lenguages": ["HTML, CSS, JS"],
+        "description":"Se trata de una calculadora sencilla que realiza las operaciones básicas de adición, substración, multiplicación y división. Se implementó con eventos del click y del teclado."
+      }
+        ]
 }
