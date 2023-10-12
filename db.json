@@ -54,6 +54,6 @@
       "src": "./imagenes-proj/e-commerce.png",
       "lenguages": ["React Js, Node Js, MongoDb"],
       "description":"Sistema para gestión de usuarios, especialmente para gimnasios pero adaptable a cualquier negocio. Realizado con MERN. Para poder visualizar o poder trabajr con la misma debe tener instalado MongoDB y seguir las instrucciones del Readme.md en el repositorio de la aplicación"
-    },
+    }
     ]
 }
