@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Gestor de Usuarios Gym",
       "link": "https://gym-users.netlify.app/",
-      "gitLink": "https://github.com/DarielCano/Gestion-Usuarios-Gym"
+      "gitLink": "https://github.com/DarielCano/Gestion-Usuarios-Gym",
       "src": "./imagenes-proj/gym-users.png",
       "lenguages": ["React Js, Node Js, MongoDb"],
       "description":"Sistema para gestión de usuarios, especialmente para gimnasios pero adaptable a cualquier negocio. Realizado con MERN. Para poder visualizar o poder trabajr con la misma debe tener instalado MongoDB y seguir las instrucciones del Readme.md en el repositorio de la aplicación"
