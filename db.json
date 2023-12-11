@@ -11,7 +11,7 @@
       {
       "id": 2,
       "title": "Gestor de Usuarios Gym",
-      "link": "https://gym-users.netlify.app/",
+      "link": "https://users-gym.netlify.app/",
       "gitLink": "https://github.com/DarielCano/Gestion-Usuarios-Gym",
       "src": "./imagenes-proj/gym-users.png",
       "lenguages": ["React Js, Node Js, MongoDb"],
